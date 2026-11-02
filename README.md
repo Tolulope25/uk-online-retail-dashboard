@@ -2,7 +2,7 @@
 
 A Power BI dashboard built on over one million UK online retail transactions, showing what drives revenue and where the business loses value to cancellations.
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Business question
 What drives this retailer's revenue, and where does it lose value?
@@ -32,6 +32,3 @@ Online Retail II, UCI Machine Learning Repository (CC BY 4.0): transactions from
 
 ## Tools and skills
 Power BI, Power Query (M), DAX, data modelling, data validation, data storytelling.
-
-## How to open
-Download the `.pbix` file and open it in Power BI Desktop.
